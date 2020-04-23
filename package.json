@@ -1,0 +1,19 @@
+{
+  "name": "geteventcaller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsGetEventCaller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e14kun/jsGetEventCaller.git"
+  },
+  "author": "github.com@e14kun.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e14kun/jsGetEventCaller/issues"
+  },
+  "homepage": "https://github.com/e14kun/jsGetEventCaller#readme"
+}
